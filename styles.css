@@ -1,0 +1,67 @@
+body {
+    background-image: url("./background.png");
+}
+header {
+    
+}
+.logo {
+    height: 40px;
+    margin: 20px 80px;
+    align: left;
+}
+.navigation {
+    height: 30px;
+    width: 450px;
+    color: white;
+    float: right;
+    margin: 20px 0px;
+}
+.navigation p {
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px;
+}
+section {
+    
+    width: 75%;
+    height: 200px;
+    margin: 240px auto;
+}
+
+.textbox1 {
+    margin: 10px auto;
+}
+
+.textbox2 {
+    margin: 10px auto;
+    width: 80%;
+}
+
+.textbox1 p {
+    font-size: 75px;
+}
+
+.textbox2 p {
+    font-size: 30px;
+}
+
+section p {
+    color: white;
+    font-size: 18px;
+}
+.button {
+    height: 40px;
+    width: 175px;
+    background: #4fadfa;
+    margin: 30px auto;
+}
+.button p {
+    padding: 10px 10px 10px 32px;
+}
+.middleText {
+    align-content: center;
+}
+
+section p {
+    font-family: 'Nunito', sans-serif;
+}
